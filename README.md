@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zstunsta
 - 👀 I’m interested in GIS and Remote Sensing
 - 🌱 I’m currently learning GIS workflows in Python, R, and SQL
-- 💞️ I’m looking to collaborate on Web Development and Applications
+- 💞️ I’m looking to collaborate on Web Development and Applications in Earth Science.
 - 📫 How to reach me zstunsta@ncsu.edu
 
 <!---
