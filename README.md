@@ -1,9 +1,9 @@
 # Hi, I’m Zach Tunstall
 
  
-I’m a GIS developer from the USA and based out of Chile.  I mostly code via python using Arcpy libraries.
+I’m a GIS developer from the USA based out of California.  I mostly code via python using Arcpy libraries.
 I’m currently learning open source GIS techniques using QGIS, R-Studio, javascript, and more.
-I am also learning web/server development to enhance and showcase my software skills.
+I am still learning backend web/server development and always searching for new ways to learn and grow my skillset.
 
 You can find me here:
 
