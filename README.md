@@ -11,9 +11,9 @@ You can find me here:
 
 📫 Email: zstunsta@ncsu.edu
 
- Socials: [LinkedIn](https://www.linkedin.com/in/zach-tunstall-0421b384/)
+[LinkedIn](https://www.linkedin.com/in/zach-tunstall-0421b384/)
  
- Articles: [GIS Week @ NCSU](https://www.gisweekatncstate.org/about)
+[GIS Week @ NCSU](https://www.gisweekatncstate.org/about)
  
  
-
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
