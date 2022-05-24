@@ -15,5 +15,4 @@ You can find me here:
  
 [GIS Week @ NCSU](https://www.gisweekatncstate.org/about)
  
- 
-<iframe src="https://giphy.com/embed/xT39Dm0hLlzjjcIp5C" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/endless-trippy-space-xT39Dm0hLlzjjcIp5C">via GIPHY</a></p>
+ ![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/xT39Dm0hLlzjjcIp5C/giphy.gif))
