@@ -16,4 +16,4 @@ You can find me here:
 [GIS Week @ NCSU](https://www.gisweekatncstate.org/about)
  
  
-![SatImage]([https://giphy.com/gifs/endless-trippy-space-xT39Dm0hLlzjjcIp5C](https://giphy.com/embed/xT39Dm0hLlzjjcIp5C))
+<iframe src="https://giphy.com/embed/xT39Dm0hLlzjjcIp5C" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/endless-trippy-space-xT39Dm0hLlzjjcIp5C">via GIPHY</a></p>
