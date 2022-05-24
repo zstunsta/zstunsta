@@ -1,9 +1,11 @@
 # Hi, I’m Zach Tunstall
 
  
-I’m a GIS developer from the USA based out of California.  I mostly code via python using Arcpy libraries.
-I’m currently learning open source GIS techniques using QGIS, R-Studio, javascript, and more.
-I am still learning backend web/server development and always searching for new ways to learn and grow my skillset.
+I’m a GIS web developer from the USA based out of Los Angeles, California.
+My intrests are in using computer aided software to model environmental phenomena.
+I'm skilled in making spatial data visualizations and creating custom GIS tools.
+My coding skillset includes a little of both front-end and back-end development with
+practical experience using Python, Js, html, css, R, SQL, MATLAB, SAS.
 
 You can find me here:
 
