@@ -15,4 +15,4 @@ You can find me here:
  
 [GIS Week @ NCSU](https://www.gisweekatncstate.org/about)
  
- ![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.giphy.com/media/xT39Dm0hLlzjjcIp5C/giphy.gif))
+ ![hippo](https://media.giphy.com/media/xT39Dm0hLlzjjcIp5C/giphy.gif)
