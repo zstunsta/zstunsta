@@ -15,4 +15,4 @@ You can find me here:
  
 [GIS Week @ NCSU](https://www.gisweekatncstate.org/about)
  
-(https://media.giphy.com/media/xT39Dm0hLlzjjcIp5C/giphy.gif)
+
